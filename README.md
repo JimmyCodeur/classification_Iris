@@ -1,17 +1,17 @@
-# Classification K-means
+# K-means Classification
 
-Ce projet utilise l'algorithme de clustering K-means pour regrouper les données en différents clusters.
+This project uses the K-means clustering algorithm to group data into different clusters.
 
 ![Image](https://miro.medium.com/v2/resize:fit:2550/0*GVjzZeYrir0R_6-X.png)
 
 ## Introduction
 
-L'algorithme K-means est une méthode de regroupement non supervisée largement utilisée en analyse de données. Il vise à partitionner un ensemble de données en un certain nombre de clusters, où chaque observation appartient au cluster avec le centroïde le plus proche.
+The K-means algorithm is a widely used unsupervised clustering method in data analysis. It aims to partition a dataset into a certain number of clusters, where each observation belongs to the cluster with the nearest centroid.
 
 ## Description
    
-1. **Exploration des données :** Avant d'appliquer K-means, il est essentiel d'explorer et de comprendre les données pour déterminer le nombre optimal de clusters.
+1. **Data Mining:** Before applying K-means, it is essential to explore and understand the data to determine the optimal number of clusters.
 
-2. **Implémentation de K-means :** Utilisez l'algorithme K-means pour regrouper les données en clusters. Assurez-vous de choisir le bon nombre de clusters en utilisant des techniques telles que la méthode du coude.
+2. **K-means implementation:** Use the K-means algorithm to cluster data. Make sure you choose the right number of clusters using techniques such as the elbow method.
 
-3. **Évaluation des résultats :** Évaluez les performances de la classification K-means en utilisant des métriques telles que l'inertie intra-cluster ou la silhouette.
+3. **Evaluation of results:** Evaluate the performance of the K-means classification using metrics such as intra-cluster inertia or silhouette.
